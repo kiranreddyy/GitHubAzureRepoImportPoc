@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubAzreRepoImportPoc", "GitHubAzreRepoImportPoc.csproj", "{A8D7CF4D-FC73-43F8-82B6-BCB3429A7EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8D7CF4D-FC73-43F8-82B6-BCB3429A7EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D7CF4D-FC73-43F8-82B6-BCB3429A7EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D7CF4D-FC73-43F8-82B6-BCB3429A7EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D7CF4D-FC73-43F8-82B6-BCB3429A7EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E75D41DB-673E-446E-9F17-922C289F1DA3}
+	EndGlobalSection
+EndGlobal
